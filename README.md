@@ -57,7 +57,7 @@ The easiest way to deploy Ghost is with our official **[Ghost(Pro)](https://ghos
 
 Not only will it save you hours of maintenance per month, but all revenue goes to the Ghost Foundation, which funds the maintenance and further development of Ghost itself. So you’ll be supporting open source software *and* getting a great service! Alternatively if you'd like to support us, we're very grateful to all our backers on [Open Collective](https://opencollective.com/ghost) :heart:
 
-I JUST CHANGED THIS
+I JUST CHANGED THIS!!
 
 &nbsp;
 
